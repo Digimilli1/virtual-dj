@@ -11,7 +11,7 @@ html,body{
   line-height:1.5;
   display:block;
 }
-
+/* navigation bar */
 #navbar{
   min-width:290px;
   top:0;
@@ -31,7 +31,7 @@ header{
   font-size:1.8em;
   display:block;
 }
-
+/* lists */
 ul{
 list-style-type:disc;
 margin-block-start:1em;
